@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Introtobuisnesscomm5
+  m_EditorClassIdentifier: 
+  _info: We have called an interior decorator, but he is out of town until next week.
+  _answers:
+  - _info: simple sentence
+    _isCorrect: 0
+  - _info: compund sentence
+    _isCorrect: 1
+  - _info: complex sentence
+    _isCorrect: 0
+  _useTimer: 1
+  _timer: 10
+  _answerType: 1
+  _addScore: 50
